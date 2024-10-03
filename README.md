@@ -22,7 +22,7 @@ You can install the required libraries using pip:
 
  1. ### Clone the repository:
    
-        git clone https://github.com/yourusername/ImageEncryptor.git
+        git clone https://github.com/Philiposeluk/ImageEncryptor.git
 
         cd image_encryption_tool
  2. ### Run the script:
