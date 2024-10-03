@@ -29,16 +29,18 @@ You can install the required libraries using pip:
  
         python3 image_encryption_tool.py
   
-  3. ### Follow the prompts:
+ 3. ### Follow the prompts:
 
-       - Enter the path of the image you want to encrypt.
 
-      - Specify the output path for the encrypted image (ensure it has a valid image file extension).
-  
-     - Optionally, choose to decrypt the image after encryption.
+ - Enter the path of the image you want to encrypt.
+
+ - Specify the output path for the encrypted image (ensure it has a valid image file extension).
+
+- Optionally, choose to decrypt the image after encryption.
     
    
-  > Example
+
+## Example
 
            Enter the path of the image to encrypt: path/to/your/image.jpg
            Image loaded successfully.
@@ -47,15 +49,3 @@ You can install the required libraries using pip:
            Encrypted image saved successfully at path/to/output/encrypted_image.png.
            Would you like to decrypt the image? (y/n): y
            Image decrypted successfully.
-
-## Limitations 
-
-  - The encryption method used is very basic and should not be considered secure for sensitive data.
-
-  - The application only manipulates the first two rows of the image for encryption and decryption.
-
-     
-
-
-
-    
